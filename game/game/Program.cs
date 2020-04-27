@@ -9,11 +9,15 @@ namespace game
     class Program
     {
         static void Main(string[] args)
-        {
+
             void Daraukazka()
             {
 
             }
+
+            Console.WriteLine("O kur kas nors daugiau?");
+            Console.WriteLine("Dominykas");
+
         }
     }
 }
