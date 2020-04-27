@@ -10,6 +10,8 @@ namespace game
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("O kur kas nors daugiau?");
+            Console.WriteLine("Dominykas");
         }
     }
 }
