@@ -8,5 +8,9 @@ namespace game
 {
     interface interfaceForGame
     {
+        void Daraukazka()
+        {
+
+        }
     }
 }

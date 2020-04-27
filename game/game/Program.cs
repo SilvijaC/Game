@@ -10,6 +10,10 @@ namespace game
     {
         static void Main(string[] args)
         {
+            void Daraukazka()
+            {
+
+            }
         }
     }
 }

@@ -8,5 +8,14 @@ namespace game
 {
     class metodai
     {
+        public string ataka { get; set; }
+        public string gyvybes { get; set; }
+
+        void Daraukazka()
+        {
+
+        }
     }
+
+
 }
